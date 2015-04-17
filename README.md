@@ -8,7 +8,8 @@
 
 ##基础篇
 
-1. [学习css布局](http://zh.learnlayout.com/)
+1. [Web 开发者指南-MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide)
+2. [学习css布局](http://zh.learnlayout.com/)
 
 ---
 
