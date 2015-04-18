@@ -22,4 +22,5 @@
 5. [那些年我们一起清除过的浮动](http://www.iyunlu.com/view/css-xhtml/55.html)
 6. [纯CSS圆角框](http://www.cnblogs.com/binyong/archive/2009/11/30/1613376.html)
 7. [强大的负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html)
+8. [CSS渐变生成器](http://www.colorzilla.com/gradient-editor/)
 
