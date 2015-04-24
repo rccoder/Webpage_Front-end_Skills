@@ -24,3 +24,6 @@
 7. [强大的负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html)
 8. [CSS渐变生成器](http://www.colorzilla.com/gradient-editor/)
 
+---
+##前端工具书籍推荐
+1.[前端技能汇总](https://github.com/JacksonTian/fks/find/master)
