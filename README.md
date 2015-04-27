@@ -23,6 +23,7 @@
 6. [纯CSS圆角框](http://www.cnblogs.com/binyong/archive/2009/11/30/1613376.html)
 7. [强大的负边距](http://www.cnblogs.com/2050/archive/2012/08/13/2636467.html)
 8. [CSS渐变生成器](http://www.colorzilla.com/gradient-editor/)
+9. [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术](http://blog.csdn.net/freshlover/article/details/11579669)
 
 ---
 ##前端工具书籍推荐
